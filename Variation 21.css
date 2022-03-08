@@ -1,0 +1,55 @@
+
+body{
+    background-color: rgba(240, 217, 213, 255);
+}
+
+p{
+    font-family: "Bodoni 72";
+}
+
+#title{
+    font-size: 200px;
+    font-weight: normal;
+    color: rgba(212, 179, 172, 255);
+
+    line-height: 150px;
+
+    position:fixed;
+    top:0px;
+    left:1100px;
+
+    text-align: right;
+
+    padding-top: 0px;
+}
+
+#text{
+    font-size: 52px;
+    font-weight:lighter;
+    color: rgba(95, 94, 94, 255);
+
+    line-height: 40px;
+    letter-spacing: 1px;
+    padding-left: 260px;
+    padding-top: 7%;
+    
+    position:fixed;
+
+   
+   
+}
+
+#backdrop{
+    font-size: 800px;
+    color: rgba(228, 203, 198, 255);
+
+    position:;
+    top:0%;
+    left:1%;
+
+    padding-top: 10%;
+    margin-top: 5%;
+
+    padding-bottom: 5%;
+    margin-bottom: 5%;
+}

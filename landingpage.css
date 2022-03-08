@@ -1,0 +1,37 @@
+
+
+body{
+    font-family: "Futura";
+    text-align: center;
+    padding-top: 4%;
+
+}
+
+.title{
+    font-family: "Futura (Light)";
+}
+
+h2{
+    font-weight: lighter;
+    font-size: 30px;
+}
+
+a{
+    margin: 0px;
+    color: #000;
+    text-decoration: none;
+    font-weight: ;
+    font-size: 40px;
+}
+
+ul{
+    list-style: none;
+}
+
+a:hover{
+    color:rgb(165, 135, 135);
+}
+
+a:active{
+    color: rgb(95, 68, 68);
+}

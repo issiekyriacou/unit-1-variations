@@ -1,0 +1,32 @@
+
+
+html{
+    background-image: linear-gradient(to bottom, rgba(16, 3, 58, 255) , rgba(1, 0, 5, 255), rgba(16, 3, 58, 255));
+}
+
+p{
+    font-family: "Lemon Milk";
+    font-size: 46px;
+
+    text-align: center;
+
+    padding-left: 5%;
+    padding-top: 0%;
+    
+}
+
+#text{
+    background: -webkit-linear-gradient(white, rgb(53, 126, 236));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+
+#flip{
+    background: -webkit-linear-gradient(rgb(110, 110, 111, 255), rgba(10, 60, 78, 255));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+    transform: scale(1, -1);
+
+}

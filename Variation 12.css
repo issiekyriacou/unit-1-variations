@@ -1,0 +1,12 @@
+
+body{
+    background-color: rgba(216, 198, 177, 255);
+}
+
+
+div{
+    color: rgba(79, 64, 48, 255);
+    width: 300px;
+    margin-left: 7%;
+    padding-top: 5%;
+}

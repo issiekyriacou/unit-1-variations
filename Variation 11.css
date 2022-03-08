@@ -1,0 +1,11 @@
+
+body{
+    background-color: white;
+}
+
+p{
+    width: 30%;
+    margin-left: 45%;
+    margin-top: 10%;
+    color: rgb(170, 2, 30);
+}

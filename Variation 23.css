@@ -1,0 +1,110 @@
+
+body{
+    background-color: white;
+}
+
+p{
+    color: rgb(22, 18, 18);
+    position:absolute;
+}
+
+.k{
+    font-family: "STSong";
+}
+
+.f{
+    font-family: "Futura";
+}
+
+.fl{
+    font-family: "Futura (Light)";
+}
+
+.b{
+    font-family: "Bodoni 72";
+}
+
+#one{
+    font-size: 30px;
+    top: 110px;
+    left: 610px;
+}
+
+#two{
+    font-size: 30px;
+    top:160px;
+    left: 600px;
+}
+
+#three{
+    font-size: 52px;
+    top: 200px;
+    left: 600px
+}
+
+#four{
+    font-size: 25px;
+    top: 310px;
+    left:620px
+}
+
+#five{
+    font-size: 75px;
+    letter-spacing: 17px;
+    top: 260px;
+    left: 744px;
+}
+
+#six{
+    font-size: 55px;
+    top: 290px;
+    left: 1080px;
+}
+
+#seven{
+    font-size: 20px;
+    text-align: right;
+    line-height: 35px;
+    top: 412px;
+    left: 1209px;
+}
+
+#eight{
+    font-size: 82px;
+    font-weight: bold;
+    top: 440px;
+    left: 1118px;
+}
+
+#nine{
+    font-size: 25px;
+    letter-spacing: 4px;
+    top: 540px;
+    left: 770px;
+}
+
+#ten{
+    font-size: 40px;
+    letter-spacing: 9px;
+    top: 558px;
+    left: 685px;
+}
+
+#eleven{
+    font-size: 60px;
+    top: 650px;
+    left: 790px;
+}
+
+#twelve{
+    font-size: 60px;
+    top: 720px;
+    left: 930px;
+    transform: rotate(90deg);
+}
+
+#last{
+    font-size: 44px;
+    top: 819px;
+    left: 1100px;
+}

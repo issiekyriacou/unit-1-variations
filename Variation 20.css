@@ -1,0 +1,188 @@
+
+html{
+    background-color: rgba(25, 25, 25, 255);
+    color: white;
+}
+
+
+.KB{
+    font-family: "Kohinoor Bangla";
+    font-weight:700;
+}
+
+.HN{
+    font-family: "Helvetica Neue";
+    font-weight: bold;
+}
+
+.LM{
+    font-family: "Lemon Milk";
+    font-weight: 500;
+}
+
+.TT{
+    font-family: "Kohinoor Bangla";
+    font-weight: 600;
+    transform: rotate(-90deg);
+}
+
+#raindrops{
+    font-size: 35px;
+    position: absolute;
+    top: 65px;
+    left: 160px;
+}
+
+#falling{
+    font-size: 32px;
+    position: absolute;
+    top: 120px;
+    left: 160px;
+}
+
+#blessings{
+    font-size: 18px;
+    position: absolute;
+    top: 140px;
+    left: 310px;
+}
+
+#like1{
+    font-size: 17px;
+    position: absolute;
+    top: 200px;
+    left: 160px;
+}
+
+#crystals{
+    font-size: 52px;
+    position: absolute;
+    top: 240px;
+    left: 130px
+}
+
+#continuous{
+    font-size: 33px;
+    position: absolute;
+    top: 210px;
+    left: 300px;
+}
+
+#pouring{
+    font-size: 24px;
+    position: absolute;
+    top: 270px;
+    left: 420px
+}
+
+#itslike{
+    font-size: 12px;
+    position: absolute;
+    top: 330px;
+    left: 310px;
+}
+
+#feast{
+    font-size: 72px;
+    position: absolute;
+    top: 280px;
+    left: 310px;
+}
+
+#we{
+    font-size: 11px;
+    position: absolute;
+    top: 260px;
+    left: 570px;
+}
+
+#celebrating{
+    font-size: 53px;
+    position: absolute;
+    top: 230px;
+    left: 570px;
+}
+
+#the{
+    font-size: 18px;
+    position: absolute;
+    top: 355px;
+    left:580px;
+}
+
+#sounds{
+    font-size: 44px;
+    position: absolute;
+    top: 315px;
+    left: 650px;
+}
+
+#are1{
+    font-size: 18px;
+    position: absolute;
+    top: 355px;
+    left: 880px;
+}
+
+#soothing{
+    font-size: 57px;
+    position: absolute;
+    top: 360px;
+    left: 590px;
+}
+
+#melodies{
+    font-size: 30px;
+    position: absolute;
+    top: 470px;
+    left: 800px;
+}
+
+#are2{
+    font-size: 12px;
+    position: absolute;
+    top: 545px;
+    left: 915px;
+}
+
+#breathtaking{
+    font-size: 38px;
+    position: absolute;
+    top: 375px;
+    left:840px;
+}
+
+#each{
+    font-size: 35px;
+    position: absolute;
+    top: 370px;
+    left: 1000px;
+}
+
+#drops{
+    font-size: 26px;
+    position: absolute;
+    top: 420px;
+    left: 1000px;
+}
+
+#like2{
+    font-size: 17px;
+    position: absolute;
+    top: 480px;
+    left: 1080px;
+}
+
+#a{
+    font-size: 84px;
+    position: absolute;
+    top: 415px;
+    left:1020px;
+}
+
+#hymn{
+    font-size: 45px;
+    position: absolute;
+    top: 550px;
+    left: 985px;
+}

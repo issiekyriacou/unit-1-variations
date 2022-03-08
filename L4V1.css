@@ -1,0 +1,49 @@
+
+body{
+    background-color: white;
+}
+
+#section1{
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+
+    padding-left: 30%;
+    padding-right: 30%;
+
+    line-height: 200%;
+}
+
+h1{
+    font-weight: 500;
+    font-family:"agreable";
+    font-size: 100px;
+    color: rgb(64, 64, 65);
+    text-align: center;
+    padding-left: 0%;
+    padding-right: 0%;
+}
+
+#section2{
+    padding-left: 0%;
+    font-family: "futura";
+    font-size: medium;
+    font-weight: 100px;
+    color: rgb(64, 64, 65);
+}
+
+.C{
+    text-align: center;
+}
+
+.R{
+    text-align: right;
+}
+
+.L{
+    text-align: left;
+}
+
+.space{
+    letter-spacing: 5px;
+}

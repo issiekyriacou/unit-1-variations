@@ -1,0 +1,41 @@
+
+body{
+    height: 90vh;
+
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: linear-gradient(to bottom, black , rgb(43, 26, 34), black);
+
+    border-style: solid;
+    border-radius: 210px;
+    border-width: 15px;
+    border-color: whitesmoke;
+
+    padding: 20px;
+}
+
+p{
+    font-family: "Centabel Book";
+    font-size: 35px;
+    text-align: left;
+    line-height: 70px;
+    padding-left: 10em;
+    padding-right: 10em;
+
+}
+
+#one{
+    padding-top: 185px;
+
+    background: -webkit-linear-gradient(rgb(255, 157, 239), white);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#two{
+    text-align: right;
+
+    background: -webkit-linear-gradient(white, rgb(255, 157, 239));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

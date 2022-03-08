@@ -1,0 +1,124 @@
+
+body{
+    background-color: rgb(192, 247, 247);
+    color: rgb(28, 77, 74);
+}
+
+#section1{
+    font-family: "futura";
+    font-weight: 200px;
+    font-size: 80px;
+
+    float:left;
+}
+
+#R{
+    position:absolute;
+    top:6%;
+    left:8%;
+}
+
+#A{
+    position:absolute;
+    top:10%;
+    left:11.5%;
+}
+
+#I{
+    position:absolute;
+    top:14%;
+    left:15.5%;
+}
+
+#N{
+    position:absolute;
+    top:18%;
+    left:18%;
+}
+
+#D{
+    position:absolute;
+    top:22%;
+    left:22%;
+}
+
+#R2{
+    position:absolute;
+    top:26%;
+    left:26%;
+}
+
+#O{
+    position:absolute;
+    top:30%;
+    left:29%;
+}
+
+#P{
+    position:absolute;
+    top:34%;
+    left:33%;
+}
+
+#S{
+    position:absolute;
+    top: 38%;
+    left:36%;
+}
+
+#F{
+    position:absolute;
+    top: 34%;
+    left:9%;
+}
+
+#A2{
+    position:absolute;
+    top: 38%;
+    left:12%;
+}
+
+#L{
+    position:absolute;
+    top: 42%;
+    left: 16%;
+}
+
+#L2{
+    position:absolute;
+    top: 46%;
+    left: 19%;
+}
+
+#I2{
+    position:absolute;
+    top: 50%;
+    left: 22%;
+}  
+
+#N2{
+    position:absolute;
+    top: 54%;
+    left: 24.5%;
+}
+
+#G{
+    position:absolute;
+    top: 58%;
+    left: 29%;
+}
+
+#section2{
+    font-weight: 5px;
+    font-size: 30px;
+    font-family: "futura";
+
+    padding-right: 25%;
+    padding-top: 5%;
+
+    text-align: center;
+    line-height: normal;
+    letter-spacing: normal;
+
+    float:right;
+}

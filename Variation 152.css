@@ -1,0 +1,55 @@
+
+body{
+    background-color: rgb(255, 232, 191);
+}
+
+div{
+        height: 100%;
+        width: 100%;
+
+        border-width: 5px;
+        border-color: chocolate;
+
+        padding-left: 0%;
+        padding-top: 2%;
+        margin-top: 0%;
+        margin-left: 0%;
+}
+
+p{
+    color: rgb(201, 107, 0);
+}
+
+#section-1{
+    position:absolute;
+    left: 8%;
+
+}
+
+#one{
+    position:absolute;
+    left:2%;
+    top: 19%;
+
+}
+
+#two{
+    position: absolute;
+    top:20%;
+    left:17%;
+    float:right;
+
+}
+
+#three{
+    position:absolute;
+    top:22%;
+    left:8%;
+}
+
+#four{
+    position: absolute;
+    top:47%;
+    left:14%;
+ 
+}

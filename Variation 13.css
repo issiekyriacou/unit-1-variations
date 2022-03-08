@@ -1,0 +1,22 @@
+
+body{
+    height: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: linear-gradient(to bottom, rgba(254, 197, 121, 255) , rgba(242, 165, 192, 255));
+}
+
+h6{
+    color: white;
+    padding-left: 47%;
+    margin-top: 5%;
+}
+
+.LS{
+    padding-left: 25%;
+    padding-top: 5%;
+}
+
+#RS{
+    padding-left: 60%;
+}
